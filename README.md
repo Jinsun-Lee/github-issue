@@ -34,12 +34,12 @@ preview and edit 클릭
 표시된 부분 클릭
 </br>
 
-![image](https://github.com/Jinsun-Lee/github-issue/assets/68187536/d348bde3-9b40-45a7-bd26-034b7bc634df)
+![image](https://github.com/Jinsun-Lee/github-issue/assets/68187536/d348bde3-9b40-45a7-bd26-034b7bc634df)  
 원하는 내용대로 수정
 </br>
 
 ![image](https://github.com/Jinsun-Lee/github-issue/assets/68187536/436e8340-3efc-4d7e-850d-d6aa5d4b5566)
-![image](https://github.com/Jinsun-Lee/github-issue/assets/68187536/5aaef15c-8c5f-44b5-917f-6fd251aaf6eb)
+![image](https://github.com/Jinsun-Lee/github-issue/assets/68187536/5aaef15c-8c5f-44b5-917f-6fd251aaf6eb)  
 난 이렇게 수정함
 </br>
 
